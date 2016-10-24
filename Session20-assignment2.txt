@@ -1,0 +1,4 @@
+
+start the agent
+
+flume-ng agent –n agent1 –f /home/hadoop/HADOOP/apache-flume-1.6.0-bin/conf/AcadgildLocal.conf
